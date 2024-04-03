@@ -1,0 +1,34 @@
+.top_btn {
+  min-width: 240px;
+  padding: 15px;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.wide_btn {
+  min-width: 220px;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: 1px solid black;
+  width: 100%;
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
