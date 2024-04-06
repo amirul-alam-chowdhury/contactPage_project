@@ -1,0 +1,43 @@
+.aboutLeft{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    
+    .l1{
+        background-color: rgb(41, 218, 218);
+        width: 50px;
+        
+    }
+    .l2{
+        background-color: rgb(41, 218, 218);
+        width: 100px;
+        
+    }
+    .l3{
+        background-color: rgb(41, 218, 218);
+        width: 100px;
+    }
+    .l4{
+        background-color: rgb(41, 218, 218);
+        width: 70px;
+    }
+     
+}
+
+.aboutRight{
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+    
+   
+}
+
+.aboutContainer{
+    display: flex;
+    gap: 20px;
+    
+}

@@ -1,0 +1,10 @@
+.icons{
+    display: flex;
+    gap: 10px;
+    /*  */
+    margin-bottom: 15px;
+}
+
+.dotted{
+    border-bottom: 2px dotted black;
+}

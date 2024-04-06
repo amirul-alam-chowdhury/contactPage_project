@@ -1,0 +1,9 @@
+.lang{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    h4{
+    margin-bottom: 10PX;
+}
+}
+

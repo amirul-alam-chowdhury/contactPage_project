@@ -2,7 +2,8 @@ import Buttons from "../Buttons/Buttons";
 import { MdMessage } from "react-icons/md";
 import { IoMdCall } from "react-icons/io";
 import { IoMail } from "react-icons/io5";
-import styles from "./Contact_form.module.css";
+// import styles from "./Contact_form.module.css";
+import styles from './contact_form.module.css'
 import service from "../assets/Service.jpg";
 
 const Contact_form = () => {
