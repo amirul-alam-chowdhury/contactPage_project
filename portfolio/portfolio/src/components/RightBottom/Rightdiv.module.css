@@ -1,0 +1,19 @@
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .webb{
+        height: 70px;
+        width: 70px;
+    }
+    .web{
+        max-height: 100%;
+        max-width: 100%;
+    }
+}
+
+.game_props{
+    display: flex;
+    flex-direction: column;
+}
