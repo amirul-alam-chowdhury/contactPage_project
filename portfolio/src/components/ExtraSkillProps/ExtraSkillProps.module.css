@@ -1,8 +1,0 @@
-.props{
-    display: flex;
-    gap: 10px;
-    .icon{
-        display: flex;
-        align-items: center;
-    }
-}
